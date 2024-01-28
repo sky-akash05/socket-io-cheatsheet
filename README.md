@@ -90,4 +90,3 @@ socket.emit("disconnecting");
 ```
 ```
 
-This `README.md` file is now formatted with headings, code blocks, and inline code styling for better readability.
