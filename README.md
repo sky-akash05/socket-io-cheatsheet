@@ -1,4 +1,3 @@
-Sure, here's your formatted `README.md` file with styling:
 
 ```markdown
 # Socket.io Cheatsheet
